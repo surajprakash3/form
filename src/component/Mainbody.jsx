@@ -1,8 +1,8 @@
-import Form from "./form";
+import Form from "./Form";
 function Mainbody(){
     return(
         <div>
-<div Class="mainbody">
+<div className="midbody">
  <Form/>
 
 </div>
